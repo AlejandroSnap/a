@@ -1,3 +1,4 @@
+```mermaid
 flowchart TD
   subgraph Evidence
     EV1[Información del servicio] --> EV2[Formulario de ingreso]
@@ -37,3 +38,4 @@ flowchart TD
   class E,F,G frontstage
   class H,I backstage
   class J,K,L support
+```
