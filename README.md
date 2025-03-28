@@ -1,4 +1,4 @@
-# Optimización del Ingreso de Datos
+# Optimización del servicio de facturación
 
 ## **Simplificación del proceso**  
 - Implementación de formularios que recopilen toda la información desde el inicio.  
